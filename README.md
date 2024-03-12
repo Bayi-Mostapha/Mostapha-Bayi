@@ -10,7 +10,7 @@ To view the website locally, follow these simple steps:
 2. Navigate to the project directory.
 3. Open the `index.html` file in your preferred web browser.
 
-Alternatively, you can visit the live version of the website at https://bayi-mostapha.github.io/MostaphaBayi.github.io/ 
+Alternatively, you can visit the live version of the website at https://bayi-mostapha.github.io/portfolio/
 
 ## Features
 
